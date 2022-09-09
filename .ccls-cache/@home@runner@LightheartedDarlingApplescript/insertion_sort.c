@@ -1,5 +1,6 @@
 //practical -2 
-#include <stdio.h>
+
+  #include <stdio.h>
 void insertionsort(int a[],int n){
    for(int i=1;i<n;i++){
      int key=a[i];int j=i-1;
@@ -32,3 +33,4 @@ int main(void) {
   }
 
 }
+*/

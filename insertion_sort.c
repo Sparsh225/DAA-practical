@@ -1,3 +1,4 @@
+//practical -2 
 #include <stdio.h>
 void insertionsort(int a[],int n){
    for(int i=1;i<n;i++){

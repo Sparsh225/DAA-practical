@@ -1,5 +1,5 @@
 //practical 1
-
+/*
  #include <stdio.h>
 int main(void) {
   int num;
@@ -14,3 +14,4 @@ int recursive(int num){
   }
   return num*recursive(num-1);
 }
+*/
